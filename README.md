@@ -80,7 +80,7 @@ As seguintes ferramentas foram usadas na construção do projeto;
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-<h2 align="center">Screenshot - WebSite RocketCoffee - DIA 01 </h2>
+<h2 align="center">Screenshot - O início da Jornada - DIA 01 </h2>
 
 <p align="center">
   <a>
@@ -88,7 +88,7 @@ As seguintes ferramentas foram usadas na construção do projeto;
   </a>
 </p>
 
-<h2 align="center">Screenshot - WebSite RocketCoffee - DIA 02 </h2>
+<h2 align="center">Screenshot - Descomplicando o Código - DIA 02 </h2>
 
 <p align="center">
   <a>
