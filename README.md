@@ -69,9 +69,9 @@
          → Tudo são caixas.   
          → Caixas possuem determinadas propriedades.   
 
-- [x] DIA 03 - Como acelerar a sua Evolução - 09/08/2022
+- [ ] DIA 03 - Como acelerar a sua Evolução - 09/08/2022
 
-- [x] DIA 03 - Encerramento aovivo - 10/08/2022
+- [ ] DIA 03 - Encerramento aovivo - 10/08/2022
         
 ### 🛠 Tecnologias
 
