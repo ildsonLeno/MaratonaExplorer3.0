@@ -5,9 +5,7 @@
 }
 
 body{
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
+    font-family: 'Roboto', sans-serif;
     background-color: #FFEDD5;
 }
 
@@ -22,15 +20,13 @@ header, section{
 
 }
 
-h1{
-    font-family: 'Roboto Serif';
-    font-style: normal;
-    font-weight: 700;
-    color: #2D2C2A;
+header h1{
+    font-size: 28px;
     margin-bottom: 4px;
+    line-height: 33px;
 }
 
-h1 span{
+header h1 span{
     color: #995000;
 }
 
@@ -38,12 +34,20 @@ ul{
     list-style: none;
 }
 
-/* estilo do parágrafo abaixo do cabeçalho */
+/* FONTES GLOBAIS */
+
+h1, h2, h3, .price{
+    font-family: 'Roboto Serif', serif;
+    text-transform: uppercase;
+    
+    color: #2D2C2A;
+}
 
 header p{
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 300;
+    line-height: 16px;
+    font-size: 14px;
+
+    color: rgba(0, 0, 0, 0.7);
 }
 
 /* estilo das seções */
@@ -52,42 +56,13 @@ section{
     margin-bottom: 24px;
 }
 
-/* estilo da "BOX" do nome brunch */
-
 section h2{
-    font-family: 'Roboto Serif';
-    font-style: normal;
-    font-weight: 700;
-    color: #2D2C2A;
-
     padding: 8px 16px;
+    font-size: 18px;
     text-align: center;
-    text-transform: uppercase;
 
     background-color: #FED7AA;
     margin-bottom: 24px;
-}
-
-/* estilo de todos os parágrafos das seções */
-
-div p{
-    text-align: left;
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 21px;
-}
-
-/* estilo de todos os "h3" */
-
-div h3{
-    font-family: 'Roboto Serif';
-    font-style: normal;
-    font-weight: 700;
-
-    text-transform: uppercase;
-    text-align: left;
 }
 
 /* estilo de todas as "li" */
@@ -95,8 +70,6 @@ div h3{
 ul li{
     margin-bottom: 16px;
     display: flex;
-    padding: 0px;
-    gap: 16px;
 }
 
 li .details{
@@ -104,14 +77,14 @@ li .details{
 }
 
 .details h3{
+    font-size: 16px;
+    margin-bottom: 8px;
+    line-height: 19px;
+}
+
+.details p{
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 14px;
+    line-height: 21px;
     margin-bottom: 8px;
 }
-
-strong {
-    font-family: 'Roboto Serif';
-    font-style: normal;
-    font-weight: 700;
-    
-    text-align: right;
-}
-
