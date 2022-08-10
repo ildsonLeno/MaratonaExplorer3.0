@@ -75,22 +75,34 @@
         
          → Editor de código profissional. 
 
-            *[Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+            *https://code.visualstudio.com/
 
          → Usar online
 
-            *[https://vscode.dev](https://vscode.dev/)
+            *https://vscode.dev/
 
       - Github
         
-         → O que é?.
+          → O que é?.
          
-            *Plataforma online para colocar seus códigos
-            *Trabalha com o Git
-            *Versionamento de código
-            *Trabalhar em diversos projetos e times de código
-            *Perfil para mostrar seu trabalho (portfólio)         
-         
+             *Plataforma online para colocar seus códigos
+             *Trabalha com o Git
+             *Versionamento de código
+             *Trabalhar em diversos projetos e times de código
+             *Perfil para mostrar seu trabalho (portfólio)      
+            
+      - Netlify
+            
+          → Plataforma de hospedagem de projetos e criação de links para outras pessoas acessarem.
+
+             *https://www.netlify.com/
+
+          → Geradores de QRCode
+
+             *https://br.qr-code-generator.com/
+             *https://qr.io/
+             *https://www.the-qrcode-generator.com/ (não precisa criar conta)
+
 - [ ] DIA 04 - Encerramento aovivo - 10/08/2022
         
 ### 🛠 Tecnologias
