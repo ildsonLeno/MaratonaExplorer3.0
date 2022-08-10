@@ -69,9 +69,29 @@
          → Tudo são caixas.   
          → Caixas possuem determinadas propriedades.   
 
-- [ ] DIA 03 - Como acelerar a sua Evolução - 09/08/2022
+- [x] DIA 03 - Como acelerar a sua Evolução - 09/08/2022
 
-- [ ] DIA 03 - Encerramento aovivo - 10/08/2022
+      - VS Code
+        
+         → Editor de código profissional. 
+
+            *[Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+
+         → Usar online
+
+            *[https://vscode.dev](https://vscode.dev/)
+
+      - Github
+        
+         → O que é?.
+         
+            *Plataforma online para colocar seus códigos
+            *Trabalha com o Git
+            *Versionamento de código
+            *Trabalhar em diversos projetos e times de código
+            *Perfil para mostrar seu trabalho (portfólio)         
+         
+- [ ] DIA 04 - Encerramento aovivo - 10/08/2022
         
 ### 🛠 Tecnologias
 
@@ -93,6 +113,14 @@ As seguintes ferramentas foram usadas na construção do projeto;
 <p align="center">
   <a>
     <img width="800" src="https://github.com/ildsonLeno/MaratonaExplorer3.0/blob/master/assets/DIA%202.jpg?raw=true">
+  </a>
+</p>
+
+<h2 align="center">Screenshot - Como acelerar a sua Evolução - DIA 03 </h2>
+
+<p align="center">
+  <a>
+    <img width="800" src="https://github.com/ildsonLeno/MaratonaExplorer3.0/blob/master/assets/DIA%203.jpg?raw=true">
   </a>
 </p>
 
