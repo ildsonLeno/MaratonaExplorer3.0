@@ -1,7 +1,7 @@
 <h1 align="center">Maratona Explorer 3.0 by Rocketseat</h1>
 <h2 align="center">Projeto criado na maratona explorer 3.0 com a @Rocketseat</h2>
 
-### - em construção !
+### - Concluido !
 
 - [x] DIA 01 - O início da Jornada - 07/08/2022
   
@@ -103,7 +103,7 @@
              *https://qr.io/
              *https://www.the-qrcode-generator.com/ (não precisa criar conta)
 
-- [ ] DIA 04 - Encerramento aovivo - 10/08/2022
+- [x] DIA 04 - Encerramento aovivo - 10/08/2022
         
 ### 🛠 Tecnologias
 
